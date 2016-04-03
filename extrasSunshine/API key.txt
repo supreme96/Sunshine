@@ -1,0 +1,5 @@
+OpenWeatherMap website login :
+username-supreme96
+password-archangel@96
+
+open weathermap api key: 5aaf5ca16cf09c61132db53f46b88ace
